@@ -1,0 +1,1 @@
+x=msgbox("You DNS has been flushed!",0+64,"DNS-Flusher")
